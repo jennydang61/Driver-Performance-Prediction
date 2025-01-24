@@ -1,1 +1,2 @@
 # Driver-Performance-Prediction
+This study aims to build machine learning models to evaluate the impact of certain variables on driver performance prediction such as qualifying position, starting grid position, lap times, pit stops, historical performance (points) and constructors. Data was collected from an API and analyzed using data preprocessing, Exploratory Data Analysis (EDA) and a machine learning model.
